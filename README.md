@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 An end-to-end Machine Learning project that predicts the likelihood of heart disease using multiple supervised classification algorithms. The project follows a complete data science workflow including Exploratory Data Analysis (EDA), data preprocessing, feature engineering, model training, evaluation, and deployment of the best-performing model using a Streamlit web application.
 
