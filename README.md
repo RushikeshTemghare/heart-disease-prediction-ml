@@ -458,7 +458,7 @@ If you would like to contribute:
 MSc Data Science & Artificial Intelligence  
 Bournemouth University
 
-Interested in Machine Learning, Artificial Intelligence, Data Analytics, and Data Science.
+Passionate about Machine Learning, Artificial Intelligence, Data Analytics, and Data Science.
 
 ---
 
